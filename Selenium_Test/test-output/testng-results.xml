@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26404" started-at="2022-01-25T08:51:05 IST" finished-at="2022-01-25T08:51:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26404" started-at="2022-01-25T08:51:05 IST" finished-at="2022-01-25T08:51:31 IST">
+      <class name="TestNgtestcases.SendKeysAddition">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNgtestcases.SendKeysAddition@7a765367]" name="beforeTest" is-config="true" duration-ms="16453" started-at="2022-01-25T08:51:05 IST" finished-at="2022-01-25T08:51:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="sendKeys()[pri:0, instance:TestNgtestcases.SendKeysAddition@7a765367]" name="sendKeys" duration-ms="8990" started-at="2022-01-25T08:51:22 IST" finished-at="2022-01-25T08:51:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendKeys -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNgtestcases.SendKeysAddition@7a765367]" name="afterTest" is-config="true" duration-ms="820" started-at="2022-01-25T08:51:31 IST" finished-at="2022-01-25T08:51:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestNgtestcases.SendKeysAddition -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
